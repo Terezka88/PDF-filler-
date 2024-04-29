@@ -1,6 +1,0 @@
-README.md
-execute_in_mac.py
-from_excel_to_pdf_rafa.egg-info/PKG-INFO
-from_excel_to_pdf_rafa.egg-info/SOURCES.txt
-from_excel_to_pdf_rafa.egg-info/dependency_links.txt
-from_excel_to_pdf_rafa.egg-info/top_level.txt
